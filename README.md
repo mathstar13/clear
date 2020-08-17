@@ -6,14 +6,18 @@ pip install --index-url https://test.pypi.org/simple/ --no-deps clear-greatusern
 ```
 Next:
 ```python
-from clear-greatusername import clear
+from cleargreatusername import clear
+import time
 print('Example')
+time.sleep(2)
 clear()
 ```
 or:
 ```python
-from clear-greatusername import cls
+from cleargreatusername import cls
+import time
 print('Example')
+time.sleep(2)
 cls()
 ```
 It does not matter what system you're on.
