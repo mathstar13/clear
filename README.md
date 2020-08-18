@@ -2,7 +2,7 @@ Clear can be used to clear the screen in the python console.
 To use:
 First:
 ```
-pip install -i https://test.pypi.org/simple/ cleargreatusername
+pip install clearconsole
 ```
 Next:
 ```python
