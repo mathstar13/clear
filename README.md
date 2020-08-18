@@ -6,7 +6,7 @@ pip install clearconsole
 ```
 Next:
 ```python
-from cleargreatusername import clear
+from clearconsole import clear
 import time
 print('Example')
 time.sleep(2)
@@ -14,7 +14,7 @@ clear()
 ```
 or:
 ```python
-from cleargreatusername import cls
+from clearconsole import cls
 import time
 print('Example')
 time.sleep(2)
